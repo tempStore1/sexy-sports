@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b59a6"],{"1a33":function(e,n,a){"use strict";a.r(n);var c=a("7a23"),t={class:"page"};function s(e,n){return Object(c["w"])(),Object(c["e"])("div",t,"投注纪录page")}const o={};o.render=s;n["default"]=o}}]);
+//# sourceMappingURL=chunk-2d0b59a6.e91c3c79.js.map

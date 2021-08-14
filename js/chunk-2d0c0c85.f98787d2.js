@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c0c85"],{"42f7":function(c,e,n){"use strict";n.r(e);var t=n("7a23"),a={class:"page"};function s(c,e){return Object(t["w"])(),Object(t["e"])("div",a,"主播赛事page")}const o={};o.render=s;e["default"]=o}}]);
+//# sourceMappingURL=chunk-2d0c0c85.f98787d2.js.map
